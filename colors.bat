@@ -1,0 +1,19 @@
+@echo off
+color a
+color b
+color 5
+color 2
+color a
+color f3
+color c
+color 98
+color a
+color c45
+color b23
+color f
+color 2
+color 22
+color f
+color 3
+echo.
+goto menu
